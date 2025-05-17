@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TSJ_APP</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_services">Сервисы</string>
+    <string name="title_news">Новости</string>
+    <string name="title_profile">Профиль</string>
+    <string name="exit_but">Выйти из аккаунта</string>
+</resources>
